@@ -15,8 +15,8 @@ https://t.me/toneachat
 课件地址：https://ton-org.notion.site/TON-NFT-2-0-2655274bd2cf807291edda0280c42e59
 
 领奖信息收集：
-1. 你的 Telegram 用户名 = ？
-2. 你的主网 TON 钱包地址 = ？
+1. 你的 Telegram 用户名 = davidhex
+2. 你的主网 TON 钱包地址 = UQCbtS9yq8pNM0yeaepG7DAMZxGBMCyMxOtJygrjm_08VWmZ
 
 
 ## 任务：构思 NFT 版权方案
@@ -28,8 +28,11 @@ https://t.me/toneachat
 ### 你的答案：
 
 1. 描述你的方案
-2. 你的方案有什么优势？
-3. 你的方案有什么取舍和不足？
+   持有 NFT 的人发起投票，在链上投票，某个 NFT 是否违规
+3. 你的方案有什么优势？
+   去中心化
+5. 你的方案有什么取舍和不足？
+   比较复杂
 
 
 
